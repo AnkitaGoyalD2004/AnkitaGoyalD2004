@@ -1,4 +1,4 @@
-    <p align="center">
+   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,
   22&height=180&section=header&text=Hi%20there,
   %20I'm%20Ankita%20Goyal%20👋&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20DSA&descFont
@@ -33,25 +33,25 @@
     - 🎯 Seeking opportunities to contribute to high-impact software engineering teams.
     
     ---
-
+    
     ### 🛠️ Tech Stack & Tools
-
+    
     <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,java,react,nodejs,express,mongodb,html,css,tailwind,redux,git,github,
   postman,aws" alt="Tech Stack" />
     </p>
-
+    
     | Category | Technologies |
     | :--- | :--- |
     | **Languages** | JavaScript (ES6+), TypeScript, Java, HTML5, CSS3 |
     | **Frontend** | React.js, Redux Toolkit, Tailwind CSS, Material UI |
     | **Backend & Databases** | Node.js, Express.js, RESTful APIs, MongoDB, Mongoose |
     | **DevOps & Tools** | AWS (S3, CloudFront), Git, GitHub, Postman, Vite |
-
+    
     ---
-
+    
     ### 🌟 Featured Projects
-
+    
     | Project | Description | Tech Stack | Links |
     | :--- | :--- | :--- | :---: |
     | **Threads Clone** | Full-stack social platform replica with real-time feeds, post creation, likes, comments, and user
@@ -63,26 +63,26 @@
     | **Rollout Dashboard** | Operational metric rollout dashboard deployed on cloud infrastructure. | JavaScript, AWS S3 |
   [Live](http://rollout-dashboard-ankita.s3-website.ap-south-1.amazonaws.com) \| [Repo](https://github.
   com/AnkitaGoyalD2004/Rollout) |
-
+    
     ---
-
+    
     ### 📊 GitHub & Problem Solving Stats
-
+    
     <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.
   app/api?username=AnkitaGoyalD2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
     <img height="165" src="https://github-readme-streak-stats.herokuapp.
   com/?user=AnkitaGoyalD2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </p>
-
+    
     <p align="center">
     <img height="160" src="https://leetcard.jacoblin.cool/Ankita_goyal-1?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-
   langs/?username=AnkitaGoyalD2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </p>
-
+    
     ---
-
+    
     <p align="center">
     <sub>Designed with ❤️ by Ankita Goyal</sub>
     </p>
