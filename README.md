@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://drxy07d0c33fv.cloudfront.net/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="http://ankita-goyal-portfolio.s3-website.ap-south-2.amazonaws.com/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://leetcode.com/Ankita_goyal-1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:goyalankita0325@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
