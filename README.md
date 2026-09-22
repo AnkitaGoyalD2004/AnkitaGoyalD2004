@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22&height=180&section=header&text=Hi%20there%2C%20I%27m%20Ankita%20Goyal&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20DSA&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+<img src="https://raw.githubusercontent.com/AnkitaGoyalD2004/AnkitaGoyalD2004/main/header.png" width="100%" alt="Ankita Goyal - Full Stack Developer | Java DSA" />
 </p>
 
 <p align="center">
-<a href="http://ankita-goyal-portfolio.s3-website.ap-south-2.amazonaws.com/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://drxy07d0c33fv.cloudfront.net/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://leetcode.com/Ankita_goyal-1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:goyalankita0325@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+full-stack+web+apps;MERN+Stack+%2B+TypeScript+Enthusiast;Problem+Solver+on+LeetCode;Exploring+Cloud+%26+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+full-stack+web+apps;Full+Stack+Developer+%7C+Java+DSA;Problem+Solver+on+LeetCode;Exploring+Cloud+%26+AWS" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **Threads Clone** | Full-stack social platform replica with real-time feeds, post creation, likes, comments, and user auth. | MERN, Chakra UI, JWT | [Repo](https://github.com/AnkitaGoyalD2004/Threads-MernStack) |
+| **Threads Clone** | Full-stack social platform replica with real-time feeds, post creation, likes, comments, and user auth. | React, Node.js, Chakra UI, JWT | [Repo](https://github.com/AnkitaGoyalD2004/Threads-MernStack) |
 | **Inventory Management** | Enterprise dashboard for monitoring stock levels, analytics, sales metrics, and product management. | TypeScript, React, Node.js | [Repo](https://github.com/AnkitaGoyalD2004/Inventory-management-dashboard) |
 | **Comfy Store** | Modern e-commerce web app with product filtering, pagination, cart state management, and checkout. | React.js, Redux, Tailwind | [Repo](https://github.com/AnkitaGoyalD2004/Comfy-Store) |
 | **Rollout Dashboard** | Operational metric rollout dashboard deployed on cloud infrastructure. | JavaScript, AWS S3 | [Live](http://rollout-dashboard-ankita.s3-website.ap-south-1.amazonaws.com) \| [Repo](https://github.com/AnkitaGoyalD2004/Rollout) |
