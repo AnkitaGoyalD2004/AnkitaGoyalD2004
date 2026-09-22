@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22&height=180&section=header&text=Hi%20there,%20I'm%20Ankita%20Goyal%20👋&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20DSA&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22&height=180&section=header&text=Hi%20there%2C%20I%27m%20Ankita%20Goyal&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20DSA&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -53,13 +53,12 @@
 ### 📊 GitHub & Problem Solving Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnkitaGoyalD2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitaGoyalD2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkitaGoyalD2004&theme=github_dark" alt="GitHub Stats" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitaGoyalD2004&theme=github_dark" alt="Languages" />
 </p>
 
 <p align="center">
-<img height="160" src="https://leetcard.jacoblin.cool/Ankita_goyal-1?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaGoyalD2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://leetcard.jacoblin.cool/Ankita_goyal-1?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </p>
 
 ---
