@@ -53,12 +53,8 @@
 ### 📊 GitHub & Problem Solving Stats
 
 <p align="center">
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkitaGoyalD2004&theme=github_dark" alt="GitHub Stats" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitaGoyalD2004&theme=github_dark" alt="Languages" />
-</p>
-
-<p align="center">
-<img height="165" src="https://leetcard.jacoblin.cool/Ankita_goyal-1?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkitaGoyalD2004&theme=github_dark" alt="GitHub Stats" />
+<img height="195" src="https://leetcard.jacoblin.cool/Ankita_goyal-1?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </p>
 
 ---
