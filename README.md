@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/AnkitaGoyalD2004/AnkitaGoyalD2004/main/header.png" width="100%" alt="Ankita Goyal - Full Stack Developer | Java DSA" />
+<img src="https://raw.githubusercontent.com/AnkitaGoyalD2004/AnkitaGoyalD2004/main/banner.png" width="100%" alt="Ankita Goyal - Full Stack Developer | Java DSA" />
 </p>
 
 <p align="center">
