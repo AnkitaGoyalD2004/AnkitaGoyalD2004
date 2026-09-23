@@ -53,8 +53,3 @@
 <img height="195" src="https://leetcard.jacoblin.cool/Ankita_goyal-1?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </p>
 
----
-
-<p align="center">
-<sub>Designed with ❤️ by Ankita Goyal</sub>
-</p>
